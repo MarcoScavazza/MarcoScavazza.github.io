@@ -4,10 +4,10 @@ title:  "Subscribe form"
 date:   2015-05-12 11:53:00
 categories: update
 ---
-<form action="http://formspree.io/marco.scavazza@unicredit.eu">
-  <input type="email" name="_replyto">
-  <textarea name="body"></textarea>
-  <input type="submit" value="Send">
+<form action="http://formspree.io/marco.scavazza@pippo.eu">
+  email <input type="email" name="_replyto"><br>
+  text <textarea name="body"></textarea><br>
+  <input type="submit" value="Send"><br>
 </form>
 
 
