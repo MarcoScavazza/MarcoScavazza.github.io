@@ -10,3 +10,10 @@ github_username:  UniCredit
 
 # Build settings
 markdown: kramdown
+
+
+# Enter your Mail User ID and Campaign ID
+# @TODO: Add in a link for where to find these
+mailchimp:
+  user-id: pippo
+  list-id: pluto
