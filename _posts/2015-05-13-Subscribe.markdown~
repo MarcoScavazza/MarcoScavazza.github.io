@@ -1,0 +1,31 @@
+---
+layout: post
+title:  "Subscribe"
+date:   2015-05-13 07:49:00
+categories: update
+---
+<form action="http://formspree.io/marco.scavazza@pippo.eu">
+<table>
+    <thead>
+      <tr>
+        <th></th>
+        <th>E-Mail</th>
+        <th>Text</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td></td>
+        <td><input type="email" name="_replyto"></td>
+        <td><textarea name="body"></textarea></td>
+      </tr>
+	<tr>
+        <td></td>
+        <td><input type="submit" value="Send"></td>
+        <td></td>
+      </tr>
+    </tbody>
+</table>
+
+
+
