@@ -2,13 +2,51 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>UniCredit GitHub</title>
-    <description>UniCredit - GitHub - Research &amp; Open Innovation
+    <description>UniCredit - GitHub &lt;br&gt;Research &amp; Open Innovation
 </description>
     <link>http://UniCredit.github.io/</link>
     <atom:link href="http://UniCredit.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 12 May 2015 16:39:16 +0200</pubDate>
-    <lastBuildDate>Tue, 12 May 2015 16:39:16 +0200</lastBuildDate>
+    <pubDate>Wed, 13 May 2015 10:33:05 +0200</pubDate>
+    <lastBuildDate>Wed, 13 May 2015 10:33:05 +0200</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
+    
+      <item>
+        <title>Subscribe form</title>
+        <description>&lt;form action=&quot;http://formspree.io/marco.scavazza@pippo.eu&quot;&gt;
+&lt;table&gt;
+    &lt;thead&gt;
+      &lt;tr&gt;
+        &lt;th&gt;&lt;/th&gt;
+        &lt;th&gt;E-Mail&lt;/th&gt;
+        &lt;th&gt;Text&lt;/th&gt;
+      &lt;/tr&gt;
+    &lt;/thead&gt;
+    &lt;tbody&gt;
+      &lt;tr&gt;
+        &lt;td&gt;&lt;/td&gt;
+        &lt;td&gt;&lt;input type=&quot;email&quot; name=&quot;_replyto&quot; /&gt;&lt;/td&gt;
+        &lt;td&gt;&lt;textarea name=&quot;body&quot;&gt;&lt;/textarea&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+	&lt;tr&gt;
+        &lt;td&gt;&lt;/td&gt;
+        &lt;td&gt;&lt;input type=&quot;submit&quot; value=&quot;Send&quot; /&gt;&lt;/td&gt;
+        &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+    &lt;/tbody&gt;
+&lt;/table&gt;
+
+
+
+&lt;/form&gt;
+</description>
+        <pubDate>Wed, 13 May 2015 09:49:00 +0200</pubDate>
+        <link>http://UniCredit.github.io/update/2015/05/13/Subscribe%20form.html</link>
+        <guid isPermaLink="true">http://UniCredit.github.io/update/2015/05/13/Subscribe%20form.html</guid>
+        
+        
+        <category>update</category>
+        
+      </item>
     
       <item>
         <title>Welcome to UniCredit GitHub!</title>
@@ -28,24 +66,6 @@
         <pubDate>Tue, 12 May 2015 13:53:00 +0200</pubDate>
         <link>http://UniCredit.github.io/update/2015/05/12/welcome-to-UniCredit.html</link>
         <guid isPermaLink="true">http://UniCredit.github.io/update/2015/05/12/welcome-to-UniCredit.html</guid>
-        
-        
-        <category>update</category>
-        
-      </item>
-    
-      <item>
-        <title>Subscribe form</title>
-        <description>&lt;form action=&quot;http://formspree.io/marco.scavazza@pippo.eu&quot;&gt;
-  email &lt;input type=&quot;email&quot; name=&quot;_replyto&quot; /&gt;&lt;br /&gt;
-  text &lt;textarea name=&quot;body&quot;&gt;&lt;/textarea&gt;&lt;br /&gt;
-  &lt;input type=&quot;submit&quot; value=&quot;Send&quot; /&gt;&lt;br /&gt;
-&lt;/form&gt;
-
-</description>
-        <pubDate>Tue, 12 May 2015 13:53:00 +0200</pubDate>
-        <link>http://UniCredit.github.io/update/2015/05/12/Subscribe%20form.html</link>
-        <guid isPermaLink="true">http://UniCredit.github.io/update/2015/05/12/Subscribe%20form.html</guid>
         
         
         <category>update</category>

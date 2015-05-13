@@ -1,19 +1,29 @@
-{% if site.mail %}
+{% if site.mailchimp %}
 <!-- Mail Email Form -->
 <form class="email-signup" action="http://twitter.us2.list-manage.com/subscribe/post?u={{ site.mailchimp.user-id }}&amp;id={{ site.mailchimp.list-id }}" method="post" novalidate>
-	<div class="field-group">
-		<label>Email</label>
-		<input type="email" value="" name="EMAIL">
-	</div>
-	<div class="field-group">
-		<label>First Name</label>
-		<input type="text" value="" name="FNAME">
-	</div>
+
 	
+<table>
+    <thead>
+      <tr>
+        <th></th>
+        <th align=right>E-Mail</th>
+        <td><input type="email" value="" name="EMAIL"></td>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td></td>
+        <th align=right>First Name</th>
+        <td><input type="text" value="" name="FNAME"></td>
+    </tbody>
+</table>
+
 	<!-- bot signup protection - real people won't fill this in -->
-    <div style="position: absolute; left: -5000px;"><input type="text" name="b_{{ site.mail.user-id }}_{{ site.mail.list-id }}" tabindex="-1" value=""></div>
+    	<div style="position: absolute; left: -5000px;"><input type="text" name="b_{{ site.mail.user-id }}_{{ site.mail.list-id }}" tabindex="-1" value=""></div>
     
     <input type="submit" value="Join The List" name="subscribe" class="button">
+<br><br>
     <p>No spam. You can unsubscribe at any time.</p>
 </form>
 {% endif %}
