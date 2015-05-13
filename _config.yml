@@ -1,6 +1,6 @@
 # Site settings
 title: UniCredit GitHub
-email: marco.scavazza@unicredit.eu
+email: pippo@pippo.eu
 description: > # this means to ignore newlines until "baseurl:"
  UniCredit - GitHub <br>Research & Open Innovation
 baseurl: "" # the subpath of your site, e.g. /blog/
