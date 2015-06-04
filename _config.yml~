@@ -1,8 +1,8 @@
 # Site settings
-title: UniCredit GitHub
+title: Marco Ska GitHub
 email: pippo@pippo.eu
 description: > # this means to ignore newlines until "baseurl:"
- UniCredit - GitHub <br>Research & Open Innovation
+ Marco Ska - GitHub <br>Research & Open Innovation
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://UniCredit.github.io" # the base hostname & protocol for your site
 twitter_username: UniCredit_PR

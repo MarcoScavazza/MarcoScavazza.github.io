@@ -1,5 +1,6 @@
 {% if site.mailchimp %}
 <!-- Mail Email Form -->
+
 <form class="email-signup" action="http://twitter.us2.list-manage.com/subscribe/post?u={{ site.mailchimp.user-id }}&amp;id={{ site.mailchimp.list-id }}" method="post" novalidate>
 
 	
@@ -25,5 +26,6 @@
     <input type="submit" value="Join The List" name="subscribe" class="button">
 <br><br>
     <p>No spam. You can unsubscribe at any time.</p>
+
 </form>
 {% endif %}
